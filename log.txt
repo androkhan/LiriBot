@@ -1,0 +1,74 @@
+***********************DATA********************************
+Command: spotify-this-song
+Search: back+in+black
+Artist: AC/DC
+Song Title: Back In Black
+Preview Link: https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh
+ ***********************DATA********************************
+Command: spotify-this-song
+Search: seven+nation+army
+Artist: The White Stripes
+Song Title: Seven Nation Army
+Preview Link: https://open.spotify.com/album/48Atx1uS9J4KL5iQt3weoS
+ ***********************DATA********************************
+Command: spotify-this-song
+Search: 
+Artist: Ace of Base
+Song Title: The Sign
+Preview Link: https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB
+ 
+***********************DATA********************************
+Command: movie-this
+Search: frozen
+Title: Frozen
+Year Released: 2013
+IMDD Rating: 7.5/10
+Rotten Tomatoes Rating: 90%
+Countries where the movie was produced: USA
+Language: English, Norwegian
+Plot: When the newly-crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
+Actors: Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
+ 
+***********************DATA********************************
+Command: movie-this
+Search: the+prestige
+Title: The Prestige
+Year Released: 2006
+IMDD Rating: 8.5/10
+Rotten Tomatoes Rating: 75%
+Countries where the movie was produced: USA, UK
+Language: English
+Plot: After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.
+Actors: Hugh Jackman, Christian Bale, Michael Caine, Piper Perabo
+ 
+***********************DATA********************************
+Command: movie-this
+Search: 
+Title: Mr. Nobody
+Year Released: 2009
+IMDD Rating: 7.9/10
+Rotten Tomatoes Rating: 67%
+Countries where the movie was produced: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+ ***********************DATA********************************
+Command: spotify-this-song
+Search: I Want it That Way
+Artist: Backstreet Boys
+Song Title: I Want It That Way
+Preview Link: https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r
+ 
+***********************DATA********************************
+Command: movie-this
+Search: Frozen
+
+Title: Frozen
+Year Released: 2013
+IMDD Rating: 7.5/10
+Rotten Tomatoes Rating: 90%
+Countries where the movie was produced: USA
+Language: English, Norwegian
+Plot: When the newly-crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
+Actors: Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
+ 
